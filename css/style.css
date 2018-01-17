@@ -1,0 +1,110 @@
+body {
+  font-family: Helvetica;
+}
+
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.mainContainer > div:not(:first-child) {
+    display: none;
+}
+
+.subMainBox {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.introContainer {
+    flex-direction: column;
+}
+.nextQuestionBox {
+    display: flex;
+    justify-content: center;
+}
+
+.imagePosition {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+div.image {
+  width: 30vw;
+  height: 70vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img1 {
+  background-image: url("../images/1.jpg");
+}
+.img2 {
+  background-image: url("../images/2.jpg");
+}
+.img3 {
+  background-image: url("../images/3.jpg");
+}
+
+.likert, .likertRI {
+  list-style-type: none;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.likertElement, .likertRIElement  {
+  margin-right: 25px;
+}
+.likertElement:hover {
+  font-weight: bold;
+}
+.nextQuestion, .theLastButton {
+  margin-top: 30px;
+}
+button {
+  width: 100px;
+  height: 30px;
+}
+/* RI---------------------------------------*/
+.instructionRIbox {
+    display: flex;
+    justify-content: center;
+    margin: 30px 100px 0px 100px;
+}
+
+.instructionRI {
+    line-height: 2;
+}
+.likertRI {
+    margin-top: 20px;
+}
+.likertRIElement {
+    font-size: 13px;
+}
+.RIquestionBox {
+    margin-top: 70px;
+}
+.question {
+    text-align: center;
+}
+
+
+/* dane -----------------------------------*/
+.noDeclaration {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.kindOfPhotography {
+    width: 20vw;
+    height: 30vh;
+}
+.mainOccupationQuestion {
+    margin-top: 50px;
+}
+
+
+
+
+
+
