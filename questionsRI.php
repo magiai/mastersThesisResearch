@@ -158,9 +158,9 @@
         </ul>
     </div>
     <!--------------------------------------------15-------------------------------------------------------->
-        <div class="nextQuestionBox">
-            <button class="nextQuestion"><input type="submit" name="submit" value="Save" /></button>
-        </div>
+    <div class="nextQuestionBox">
+        <button class="nextQuestion">Następne</button>
+    </div>
 
     <br>
 

@@ -18,6 +18,8 @@
 
 <?php include('questionsRI.php')?>
 
+<?php include('questionsPERSON.php')?>
+
 </form>
 
 
