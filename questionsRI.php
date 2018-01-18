@@ -1,4 +1,4 @@
-<form class="formRI" action="form.php" method="post">
+
 
     <!-- Q1RI - Q1 = question 1, RI = różnice indywidualne -->
 
@@ -166,4 +166,3 @@
 
 
 
-</form>

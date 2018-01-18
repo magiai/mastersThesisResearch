@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86d1452-2f4a-411f-b870-fbae6310f241" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/images/BarbaraKastenOtherWorks2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/DarrenHarvey-ReganTheErratics.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/FelicityHammondYouWillEnterAnOasis.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/HenryHolmesSmithLightDancers.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/10.jpg" afterPath="$PROJECT_DIR$/images/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/20.jpg" afterPath="$PROJECT_DIR$/images/20.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/30.jpg" afterPath="$PROJECT_DIR$/images/30.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/AaronSiskind.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/AlvinLangdonCoburn.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/AndreaGrutznerGuesthouse.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/AnnaAtkins.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/AnnedeVriesForecast.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/AntonioOttomanelliBigEyeCabul.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/ArtieVierhanImageObjects.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/CharlesLindsayCarbon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/ChrisMcCawSunburned.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/DaisukeYokotaColors.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/DanielGordonBlueWatermelon.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/FE4_Brea_Souders.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/FlorianMaierAichen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/HannahWithaker2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/IwataNakayamaEve.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/JessicaEatonTransition.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/LaszloMoholy-NagyEM1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/LethaWilsonConcreteCanyons.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/LorenzoVitturi.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/ManRay.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/MarcoBreuerUntitled (C-367).jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/MiguelAngelTorneroEspace.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/NickiStagerPhotograms.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/NicoKrijoTheFluidRightEdge.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/TaisukaKoyamaLightField.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/VivianeSassenUmbra.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/WaleadBeshty.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/WolfgangTillmansStarDust.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change beforePath="$PROJECT_DIR$/questionsPICS.php" afterPath="$PROJECT_DIR$/questionsPICS.php" />
+      <change beforePath="$PROJECT_DIR$/questionsRI.php" afterPath="$PROJECT_DIR$/questionsRI.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +46,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="questionsRI.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="questionsRI.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/questionsRI.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state relative-caret-position="339">
+              <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questionsPICS.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/questionsPICS.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,18 +69,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="198" column="46" lean-forward="false" selection-start-line="198" selection-start-column="46" selection-end-line="198" selection-end-column="46" />
+            <state relative-caret-position="55">
+              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,7 +89,7 @@
       <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1660">
+            <state relative-caret-position="690">
               <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
               <folding />
             </state>
@@ -69,12 +105,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/oldQ.php" />
-        <option value="$PROJECT_DIR$/questionsRI.php" />
         <option value="$PROJECT_DIR$/form.php" />
-        <option value="$PROJECT_DIR$/questionsPICS.php" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/questionsPICS.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/questionsRI.php" />
       </list>
     </option>
   </component>
@@ -139,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516224668714</updated>
       <workItem from="1516224669913" duration="5590000" />
-      <workItem from="1516291570711" duration="12209000" />
+      <workItem from="1516291570711" duration="13295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17799000" />
+    <option name="totallyTimeSpent" value="18885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1537" height="912" extended-state="6" />
@@ -221,14 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1660">
-          <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -248,22 +276,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/questionsRI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/questionsPICS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3666">
-          <caret line="650" column="27" lean-forward="false" selection-start-line="650" selection-start-column="27" selection-end-line="650" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -272,18 +284,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="55">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="198" column="46" lean-forward="false" selection-start-line="198" selection-start-column="46" selection-end-line="198" selection-end-column="46" />
+        <state relative-caret-position="690">
+          <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questionsPICS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questionsRI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
           <folding />
         </state>
       </provider>

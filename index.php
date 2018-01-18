@@ -11,9 +11,14 @@
 
 <?php require_once('form.php') ?>
 
+
+<form class="form" action="form.php" method="post">
+
 <?php include ('questionsPICS.php')?>
 
 <?php include('questionsRI.php')?>
+
+</form>
 
 
 
