@@ -11,6 +11,8 @@
 
 <?php require_once('form.php') ?>
 
+<?php include ('questionsPICS.php')?>
+
 <?php include('questionsRI.php')?>
 
 
