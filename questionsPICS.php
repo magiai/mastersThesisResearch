@@ -8,7 +8,7 @@
             onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>
 
     <div class="nextQuestionBox">
-        <button class="nextQuestion">Rozpocznij badanie</button>
+        <button class="nextQuestion startButton">Rozpocznij badanie</button>
     </div>
     </div>
 

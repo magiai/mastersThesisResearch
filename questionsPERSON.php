@@ -46,13 +46,13 @@
 
 
 
-    <div class="questionSwitchContainer subMainBox">
-
-        <h2>INFORMACJE O BADANIU</h2><br>
-        <p>INKJDSKSDDDDDDDDDDDDDSNCJKNKJNSKJkncikwnviwosnvoiwnvionvi
-            onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>
-
-    </div>
+<!--    <div class="questionSwitchContainer subMainBox">-->
+<!---->
+<!--        <h2>INFORMACJE O BADANIU</h2><br>-->
+<!--        <p>INKJDSKSDDDDDDDDDDDDDSNCJKNKJNSKJkncikwnviwosnvoiwnvionvi-->
+<!--            onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>-->
+<!---->
+<!--    </div>-->
 
 </div>
 
