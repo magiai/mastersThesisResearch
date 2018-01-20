@@ -15,7 +15,7 @@
 
 
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img1"></div></div>
+    <div class="imagePosition"><div class = "image square img1"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -34,7 +34,7 @@
 </div>
 <!-----------------------------------------------------2------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img2"></div></div>
+    <div class="imagePosition"><div class = "image vertical img2"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -53,7 +53,7 @@
 </div>
 <!-----------------------------------------------------3------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img3"></div></div>
+    <div class="imagePosition"><div class = "image vertical img3"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -72,7 +72,7 @@
 </div>
 <!-----------------------------------------------------4------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img4"></div></div>
+    <div class="imagePosition"><div class = "image vertical img4"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -91,7 +91,7 @@
 </div>
 <!-----------------------------------------------------5------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img5"></div></div>
+    <div class="imagePosition"><div class = "image vertical img5"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -110,7 +110,7 @@
 </div>
 <!-----------------------------------------------------6------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img6"></div></div>
+    <div class="imagePosition"><div class = "image vertical img6"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -129,7 +129,7 @@
 </div>
 <!-----------------------------------------------------7------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img7"></div></div>
+    <div class="imagePosition"><div class = "image vertical img7"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -148,7 +148,7 @@
 </div>
 <!-----------------------------------------------------8------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img8"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img8"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -167,7 +167,7 @@
 </div>
 <!-----------------------------------------------------9------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img9"></div></div>
+    <div class="imagePosition"><div class = "image vertical img9"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -186,7 +186,7 @@
 </div>
 <!-----------------------------------------------------10------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img10"></div></div>
+    <div class="imagePosition"><div class = "image vertical img10"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -205,7 +205,7 @@
 </div>
 <!-----------------------------------------------------11------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img11"></div></div>
+    <div class="imagePosition"><div class = "image vertical img11"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -224,7 +224,7 @@
 </div>
 <!-----------------------------------------------------12------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img12"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img12"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -243,7 +243,7 @@
 </div>
 <!-----------------------------------------------------13------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img13"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img13"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -262,7 +262,7 @@
 </div>
 <!-----------------------------------------------------14------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img14"></div></div>
+    <div class="imagePosition"><div class = "image square img14"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -281,7 +281,7 @@
 </div>
 <!-----------------------------------------------------15------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img15"></div></div>
+    <div class="imagePosition"><div class = "image vertical img15"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -300,7 +300,7 @@
 </div>
 <!-----------------------------------------------------16------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img16"></div></div>
+    <div class="imagePosition"><div class = "image vertical img16"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -319,7 +319,7 @@
 </div>
 <!-----------------------------------------------------17------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img17"></div></div>
+    <div class="imagePosition"><div class = "image vertical img17"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -338,7 +338,7 @@
 </div>
 <!-----------------------------------------------------18------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img18"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img18"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -357,7 +357,7 @@
 </div>
 <!-----------------------------------------------------19------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img19"></div></div>
+    <div class="imagePosition"><div class = "image vertical img19"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -395,7 +395,7 @@
 </div>
 <!-----------------------------------------------------21------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img21"></div></div>
+    <div class="imagePosition"><div class = "image vertical img21"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -414,7 +414,7 @@
 </div>
 <!-----------------------------------------------------22------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img22"></div></div>
+    <div class="imagePosition"><div class = "image vertical img22"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -433,7 +433,7 @@
 </div>
 <!-----------------------------------------------------23------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img23"></div></div>
+    <div class="imagePosition"><div class = "image vertical img23"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -452,7 +452,7 @@
 </div>
 <!-----------------------------------------------------24------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img24"></div></div>
+    <div class="imagePosition"><div class = "image square img24"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -471,7 +471,7 @@
 </div>
 <!-----------------------------------------------------25------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img25"></div></div>
+    <div class="imagePosition"><div class = "image vertical img25"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -490,7 +490,7 @@
 </div>
 <!-----------------------------------------------------26------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img26"></div></div>
+    <div class="imagePosition"><div class = "image vertical img26"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -509,7 +509,7 @@
 </div>
 <!-----------------------------------------------------27------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img27"></div></div>
+    <div class="imagePosition"><div class = "image vertical img27"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -528,7 +528,7 @@
 </div>
 <!-----------------------------------------------------28------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img28"></div></div>
+    <div class="imagePosition"><div class = "image vertical img28"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -547,7 +547,7 @@
 </div>
 <!-----------------------------------------------------29------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img29"></div></div>
+    <div class="imagePosition"><div class = "image vertical img29"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -566,7 +566,7 @@
 </div>
 <!-----------------------------------------------------30------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img30"></div></div>
+    <div class="imagePosition"><div class = "image square img30"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -585,7 +585,7 @@
 </div>
 <!-----------------------------------------------------31------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img31"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img31"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -604,7 +604,7 @@
 </div>
 <!-----------------------------------------------------32------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img32"></div></div>
+    <div class="imagePosition"><div class = "image vertical img32"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -623,7 +623,7 @@
 </div>
 <!-----------------------------------------------------33------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img33"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img33"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -642,7 +642,7 @@
 </div>
 <!-----------------------------------------------------34------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img34"></div></div>
+    <div class="imagePosition"><div class = "image horizontal img34"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
@@ -661,7 +661,7 @@
 </div>
 <!-----------------------------------------------------35------------------------------------------------------------->
 <div class="questionSwitchContainer subMainBox">
-    <div class="imagePosition"><div class = "image img35"></div></div>
+    <div class="imagePosition"><div class = "image vertical img35"></div></div>
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">

@@ -30,13 +30,31 @@ body {
     display: flex;
     justify-content: center;
     justify-items: center;
+    margin-top: 20px;
 }
-div.image {
-    width: 30vw;
+.image {
+    width: 70vw;
     height: 70vh;
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: flex-end;
 }
+/*.vertical {*/
+    /*margin-left: 35vw;*/
+/*}*/
+/*.square {*/
+    /*margin-left: 30vw;*/
+/*}*/
+/*.horizontal {*/
+    /*margin-left: 20vw;*/
+/*}*/
+
 
 .question {
     text-align: center;

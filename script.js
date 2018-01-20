@@ -15,16 +15,4 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-
-//   var prevent = document.querySelectorAll('.nextQuestion');
-//
-//   for (var i = 0; i < prevent.length; i++) {
-//     prevent[i].addEventListener("click", function (event) {
-//
-//         event.preventDefault();
-//       })
-//
-//     };
-//
-//
 });
