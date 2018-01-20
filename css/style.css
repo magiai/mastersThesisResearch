@@ -17,12 +17,13 @@ body {
     justify-items: center;
     text-align: center;
 }
-.introContainer {
+.introContainer, .riContainer {
     flex-direction: column;
 }
 .nextQuestionBox {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .imagePosition {
@@ -37,6 +38,9 @@ div.image {
     background-size: contain;
 }
 
+.question {
+    text-align: center;
+}
 
 .likert, .likertRI {
     list-style-type: none;
@@ -49,6 +53,9 @@ div.image {
     margin-right: 25px;
 }
 .likertElement:hover {
+    font-weight: bold;
+}
+.likertRIElement:hover {
     font-weight: bold;
 }
 .nextQuestion, .theLastButton {
@@ -74,15 +81,22 @@ button {
 .likertRIElement {
     font-size: 13px;
 }
-.RIquestionBox {
-    margin-top: 70px;
-}
+/*.RIquestionBox {*/
+    /*margin-top: 70px;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+
+    /*width: 98vw;*/
+    /*height: 20vh;*/
+/*}*/
 
 
 /* dane -----------------------------------*/
-.noDeclaration {
-    margin-top: 30px;
-    margin-bottom: 50px;
+.years {
+    text-align: center;
+    font-weight: bold;
+    line-height: 2;
 }
 .kindOfPhotography {
     width: 20vw;

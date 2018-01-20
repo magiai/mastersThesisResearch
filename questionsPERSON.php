@@ -1,14 +1,15 @@
+<div class="mainContainer">
 
 <div class="aboutExaminedBox subMainBox">
 
-    <p>Od ilu lat zajmujesz się fotografią / sztukami wizualnymi? Jeśli nie zajmujesz się
-    fotografią / sztukami wizualnymi wpisz 0.</p>
-    <br>
-    <br>
-
     <div class="aboutExaminedQuestions">
 
+    <p class="years">Od ilu lat zajmujesz się fotografią / sztukami wizualnymi? <br> Jeśli nie zajmujesz się
+    fotografią / sztukami wizualnymi wpisz 0.</p>
+
             <input type="number" name="years" min="0" max="60">
+
+        <br><br><br>
 
             <p class="photoGenre">Które z tych zagadnień jest Ci najbliższe?</p>
             <select class="kindOfPhotography" name="kindOfPhotography" size="15" multiple>
@@ -36,11 +37,23 @@
             <input class="mainOccupation" type="checkbox" name="photoAsMainOccupation" value="0"> Nie<br>
 
         <!-----------------------------------------SUBMIT--------------------------------------------------->
-        <div class="nextQuestionBox">
-            <button class="nextQuestion"><input type="submit" name="submit" value="Save" /></button>
+        <div class="nextQuestionBox2">
+            <input class="nextQuestion" type="submit" name="submit" value="Wyślij" />
         </div>
 
 
     </div>
+
+
+
+    <div class="questionSwitchContainer subMainBox">
+
+        <h2>INFORMACJE O BADANIU</h2><br>
+        <p>INKJDSKSDDDDDDDDDDDDDSNCJKNKJNSKJkncikwnviwosnvoiwnvionvi
+            onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>
+
+    </div>
+
 </div>
 
+</div>

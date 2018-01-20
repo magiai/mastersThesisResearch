@@ -1,3 +1,17 @@
+<div class="mainContainer">
+
+
+    <div class="questionSwitchContainer subMainBox introContainer">
+
+        <h2>INFORMACJE O BADANIU</h2><br>
+        <p class = "introTxt">INKJDSKSDDDDDDDDDDDDDSNCJKNKJNSKJkncikwnviwosnvoiwnvionvi
+            onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>
+
+    <div class="nextQuestionBox">
+        <button class="nextQuestion">Rozpocznij badanie</button>
+    </div>
+    </div>
+
 
 
 <div class="questionSwitchContainer subMainBox">
@@ -664,6 +678,11 @@
         <button class="nextQuestion">Następne</button>
     </div>
 </div>
+
+    <?php include('questionsRI.php')?>
+
+</div>
+
 
 
 
