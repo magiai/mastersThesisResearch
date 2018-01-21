@@ -167,6 +167,17 @@
         </ul>
     </div>
     <!--------------------------------------------15-------------------------------------------------------->
+   <div class="riContainer">
+        <h4 class="question">15. Zazwyczaj miałam/miałem jakiś autorytet, który podziwiałam/podziwiałem.</h4>
+        <ul class="likertRI">
+            <li class="likertRIElement">Zdecydowanie nie zgadzam się<input id="scaleStart" type="radio" name="Q15RI" value="5" />
+            <li class="likertRIElement">Nie zgadzam się<input type="radio" name="Q15RI" value="4" />
+            <li class="likertRIElement">Nie mam zdania<input type="radio" name="Q15RI" value="3"/>
+            <li class="likertRIElement">Zgadzam się<input type="radio" name="Q15RI" value="2" />
+            <li class="likertRIElement">Zdecydowanie zgadzam się<input type="radio" name="Q15RI" value="1"/>
+        </ul>
+    </div>
+    <!--------------------------------------------15-------------------------------------------------------->
     <div class="nextQuestionBox">
         <button class="nextQuestion">Następne</button>
     </div>
