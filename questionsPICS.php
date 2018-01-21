@@ -3,9 +3,7 @@
 
     <div class="questionSwitchContainer subMainBox introContainer">
 
-        <h2>INFORMACJE O BADANIU</h2><br>
-        <p class = "introTxt">INKJDSKSDDDDDDDDDDDDDSNCJKNKJNSKJkncikwnviwosnvoiwnvionvi
-            onviowenvoiwvnoinviownvoiwsnvowinvwoivwnio</p>
+        <?php include ('intro.php'); ?>
 
     <div class="nextQuestionBox">
         <button class="nextQuestion startButton">Rozpocznij badanie</button>
