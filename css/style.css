@@ -155,19 +155,21 @@ button {
     flex-direction: row;
     justify-content: center;
     width: 100vw;
-    height: 20vh;
+    height: 25vh;
     box-sizing: border-box;
+    margin-bottom: 50px;
 }
 .rowElement {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     width: 19vw;
-    height: 19vh;
+    height: 24vh;
     box-sizing: border-box;
 }
 .smallPic {
-    width: 15vw;
-    height: 12vh;
+    width: 18vw;
+    height: 19vh;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -178,24 +180,15 @@ button {
     align-items: flex-start;
 }
 .author {
-    width: 15vw;
-    height: 4vh;
+    width: 18vw;
+    height: 6vh;
     display: flex;
     justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    line-height: 1.5;
     font-size: 12px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -307,4 +300,109 @@ button {
     background-image: url("../images/35.jpg");
 }
 
-
+/* small images ---------------------------*/
+.smallPic1 {
+    background-image: url("../smallImages/101.jpg");
+}
+.smallPic2 {
+    background-image: url("../smallImages/102.jpg");
+}
+.smallPic3 {
+    background-image: url("../smallImages/103.jpg");
+}
+.smallPic4 {
+    background-image: url("../smallImages/104.jpg");
+}
+.smallPic5 {
+    background-image: url("../smallImages/105.jpg");
+}
+.smallPic6 {
+    background-image: url("../smallImages/106.jpg");
+}
+.smallPic7 {
+    background-image: url("../smallImages/107.jpg");
+}
+.smallPic8 {
+    background-image: url("../smallImages/108.jpg");
+}
+.smallPic9 {
+    background-image: url("../smallImages/109.jpg");
+}
+.smallPic10 {
+    background-image: url("../smallImages/110.jpg");
+}
+.smallPic11 {
+    background-image: url("../smallImages/111.jpg");
+}
+.smallPic12 {
+    background-image: url("../smallImages/112.jpg");
+}
+.smallPic13 {
+    background-image: url("../smallImages/113.jpg");
+}
+.smallPic14 {
+    background-image: url("../smallImages/114.jpg");
+}
+.smallPic15 {
+    background-image: url("../smallImages/115.jpg");
+}
+.smallPic16 {
+    background-image: url("../smallImages/116.jpg");
+}
+.smallPic17 {
+    background-image: url("../smallImages/117.jpg");
+}
+.smallPic18 {
+    background-image: url("../smallImages/118.jpg");
+}
+.smallPic19 {
+    background-image: url("../smallImages/119.jpg");
+}
+.smallPic20 {
+    background-image: url("../smallImages/120.jpg");
+}
+.smallPic21 {
+    background-image: url("../smallImages/121.jpg");
+}
+.smallPic22 {
+    background-image: url("../smallImages/122.jpg");
+}
+.smallPic23 {
+    background-image: url("../smallImages/123.jpg");
+}
+.smallPic24 {
+    background-image: url("../smallImages/124.jpg");
+}
+.smallPic25 {
+    background-image: url("../smallImages/125.jpg");
+}
+.smallPic26 {
+    background-image: url("../smallImages/126.jpg");
+}
+.smallPic27 {
+    background-image: url("../smallImages/127.jpg");
+}
+.smallPic28 {
+    background-image: url("../smallImages/128.jpg");
+}
+.smallPic29 {
+    background-image: url("../smallImages/129.jpg");
+}
+.smallPic30 {
+    background-image: url("../smallImages/130.jpg");
+}
+.smallPic31 {
+    background-image: url("../smallImages/131.jpg");
+}
+.smallPic32 {
+    background-image: url("../smallImages/132.jpg");
+}
+.smallPic33 {
+    background-image: url("../smallImages/133.jpg");
+}
+.smallPic34 {
+    background-image: url("../smallImages/134.jpg");
+}
+.smallPic35 {
+    background-image: url("../smallImages/135.jpg");
+}

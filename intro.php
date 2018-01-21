@@ -8,8 +8,7 @@
     Poniższe badanie jest przeprowadzane w ramach seminarium magisterskiego  na Wydziale Psychologii Uniwersytetu Warszawskiego.<br>
     Badanie ma na celu sprawdzenie czy preferencje wizualne, mierzone oceną zdjęcia są
     powiązane z cechami charakteru i doświadczeniem zawodowym.<br>
-    Więcej o badaniu będzie można przeczytać na ostatniej stronie, po wypełnieniu ankiety.
-    <br>
+
     <br>
     <!-- przebieg badania badania -->
     Badanie trwa około 10 minut i składa się z trzech części.<br>
@@ -19,10 +18,10 @@
     możesz zastąpić pytanie innym, np. "Czy powiesiłabym/powiesiłbym to zdjęcie u siebie w pokoju?",
     "Czy miałabym/miałbym ochotę jeszcze raz zobaczyć to zdjęcie?"
     Odpowiadaj zgodnie ze swoimi odczuciami, Twoje odpowiedzi nikogo nie urażą.<br>
-    Następna część składa się z 15 pytań dotyczących cech osobowości.
-    Tutaj również nie ma dobrych czy złych odpowiedzi.
+    Następna część składa się z 15 pytań dotyczących cech osobowości. Forma odpowiedzi jest taka sama jak w części pierwszej.
+    Tutaj również nie ma dobrych czy złych odpowiedzi.<br>
     Im szczersze odpowiedzi, tym wyniki badania będą wiarygodniejsze.
-    Ostatnia część składa się z trzech pytań dotycząch doświadczenia zawodowego.
+        Ostatnia część składa się z trzech pytań dotycząch doświadczenia zawodowego.
     <br>
     <br>
     Ankieta jest całkowicie anonimowa, nie ma w niej pytań o dane personalne. Jej wyniki będą analizowane zbiorczo.
@@ -36,6 +35,9 @@
     <br>
     <br>
     Proszę o zaznaczenie odpowiedzi na wszystkie pytania.
+    <br>
+    <br>
+    Więcej o podstawach badania będzie można przeczytać na ostatniej stronie, po wypełnieniu ankiety.
 
 </p>
 </div>

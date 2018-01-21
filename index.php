@@ -19,7 +19,7 @@
 
 </form>
 
-<?php //include('explanation.php')?>
+<?php //include('explanation.html') ?>
 
 
 
