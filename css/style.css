@@ -7,6 +7,10 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+
+/*.mainContainer {*/
+    /*display: none;*/
+/*}*/
 .mainContainer > div:not(:first-child) {
     display: none;
 }
@@ -91,7 +95,7 @@ body {
 .likertRIElement:hover {
     font-weight: bold;
 }
-.nextQuestion, .theLastButton {
+.nextQuestion, .theLastButton, .firstQuestionBox {
     margin-top: 10px;
 }
 button {
@@ -144,12 +148,54 @@ button {
 }
 
 /* explanation -------------------------*/
+.mainExpContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.textContainer {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 80vw;
+    margin: 30px 100px;
+
+}
+.citationContainer {
+    width: 50vw;
+    font-style: italic;
+    line-height: 1.5;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 25vw;
+    margin-bottom: 40px;
+}
+#citAuthor {
+    font-size: 18px;
+    margin-left: 10vw;
+}
+.explanationTextContainer {
+    margin: 0px 150px 70px 150px;
+    font-size: 18px;
+    line-height: 2.2;
+}
+
 
 .miniPicsBox{
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
+/*.citation {*/
+    /*width: 50vw;*/
+    /*font-style: italic;*/
+    /*font-size: 16px;*/
+/*}*/
+
+/* pictures-----------------------------*/
 .row {
     display: flex;
     flex-direction: row;
@@ -158,6 +204,7 @@ button {
     height: 25vh;
     box-sizing: border-box;
     margin-bottom: 50px;
+
 }
 .rowElement {
     display: flex;

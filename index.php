@@ -11,8 +11,8 @@
 
 <?php require_once('form.php') ?>
 
-<?php //include ('intro.php')?>
-
+<?php ////include ('intro.php')?>
+<!---->
 <form class="form" action="form.php" method="post">
 
 <?php include ('questionsPICS.php')?>
