@@ -5,7 +5,7 @@
 
         <?php include ('intro.php'); ?>
 
-    <div class="nextQuestionBox">
+    <div class="firstNextQuestionBox">
         <button class="nextQuestion startButton">Rozpocznij badanie</button>
     </div>
     </div>
@@ -17,13 +17,13 @@
     <div>
         <h3 class="question">Czy to zdjęcie Ci się podoba?</h3>
         <ul class="likert">
-            <li class="likertElement">Zdecydowanie nie<input id="scaleStart" type="radio" name="Q1PIC" value="1" />
-            <li class="likertElement">Nie<input type="radio" name="Q1PIC" value="2" />
-            <li class="likertElement">Raczej nie<input type="radio" name="Q1PIC" value="3" />
-            <li class="likertElement">Nie mam zdania<input type="radio" name="Q1PIC" value="4" />
-            <li class="likertElement">Raczej tak<input type="radio" name="Q1PIC" value="5"/>
-            <li class="likertElement">Tak<input type="radio" name="Q1PIC" value="6" />
-            <li class="likertElement">Zdecydowanie tak<input id="scaleEnd" type="radio" name="Q1PIC" value="7" />
+            <li class="likertElement">Zdecydowanie nie<input id="radioButton" type="radio" name="Q1PIC" value="1" />
+            <li class="likertElement">Nie<input id="radioButton" type="radio" name="Q1PIC" value="2" />
+            <li class="likertElement">Raczej nie<input id="radioButton" type="radio" name="Q1PIC" value="3" />
+            <li class="likertElement">Nie mam zdania<input id="radioButton" type="radio" name="Q1PIC" value="4" />
+            <li class="likertElement">Raczej tak<input id="radioButton" type="radio" name="Q1PIC" value="5"/>
+            <li class="likertElement">Tak<input id="radioButton" type="radio" name="Q1PIC" value="6" />
+            <li class="likertElement">Zdecydowanie tak<input id="radioButton" type="radio" name="Q1PIC" value="7" />
         </ul>
     </div>
     <div class="nextQuestionBox">

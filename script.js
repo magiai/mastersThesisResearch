@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
 
 
-    var showNext = document.querySelectorAll('.nextQuestionBox');
+    var showFirstNext = document.querySelectorAll('.firstNextQuestionBox');
 
-    for (var i = 0; i < showNext.length; i++ ) {
-        showNext[i].addEventListener("click", function (event) {
+    for (var i = 0; i < showFirstNext.length; i++) {
+        showFirstNext[i].addEventListener("click", function (event) {
 
 
             event.preventDefault();
@@ -17,61 +17,42 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-});
 
-//muszę jeszcze znaleźć sposób, żeby pierwsza strona szła dalej i zastąpić name klasą if hasClass?
+        const showNext = document.querySelectorAll('.nextQuestionBox');
 
-    // var checkIfEmpty = document.querySelectorAll('input[name="Q1PIC"]:checked').value;
-//     var checkIfEmpty = document.querySelectorAll('input').value;
-//
-//     var showNext = document.querySelectorAll('.nextQuestionBox');
-//     // var checkedValidation = document.querySelectorAll('.likertElement');
-//
-//     for (var i = 0; i < showNext.length; i++) {
-//         showNext[i].addEventListener("click", function (event) {
-//
-//                 // if (checkedValidation.checked)
-//             for (var j = 0; j = checkIfEmpty.length; j++) {
-//
-//
-//                 if (checkIfEmpty[j] === 1 || checkIfEmpty[j] === 2 || checkIfEmpty[j] === 3 || checkIfEmpty[j] === 4
-//                     || checkIfEmpty[j] === 5 || checkIfEmpty[j] === 6 || checkIfEmpty[j] === 7) {
-//                     //to działa
-//                     /** @namespace this.parentElement.nextElementSibling.style */
-//                     this.parentElement.nextElementSibling.style.display = "block";
-//                     this.parentElement.style.display = "none";
-//
-//
-//                 } else {
-//
-//                     event.preventDefault();
-//                     console.log("Zaznacz odpowiedź!")
-//                 }
-//             }
-//             })
-//             }
-//
-// });
+        for (var i=0; i<showNext.length; i++) {
 
+            console.log(i);
 
-// for (var j = 0; j = checkIfEmpty.length; j++) {
-//
-//
-//     if (checkIfEmpty[j] === 1 || checkIfEmpty[j] === 2 || checkIfEmpty[j] === 3 || checkIfEmpty[j] === 4
-//         || checkIfEmpty[j] === 5 || checkIfEmpty[j] === 6 || checkIfEmpty[j] === 7) {
-//         //to działa
-//         /** @namespace this.parentElement.nextElementSibling.style */
-//         this.parentElement.nextElementSibling.style.display = "block";
-//         this.parentElement.style.display = "none";
-//
-//
-//     } else {
-//
-//         event.preventDefault();
-//     }
-// }
-// })
-// }
-//
-// });
+            showNext[i].addEventListener('click', function(e) {
 
+                e.preventDefault();
+
+                /* musimy przejsc do najblizszego kontenera z pytaniem */
+                /* mozna closest, mozna tez parentElement */
+
+                const cnt = this.parentElement;
+                const radios = cnt.querySelectorAll('input[type="radio"]');
+                var canPass = false;
+
+                for (var i=0; i<radios.length; i++) {
+                    if (radios[i].checked) {
+                        canPass = true;
+                        break;
+                    }
+                }
+
+                if (canPass) {
+
+                    this.parentElement.nextElementSibling.style.display = "block";
+                    this.parentElement.style.display = "none";
+
+                } else {
+
+                    alert('Odpowiedź na wszystkie pytania');
+                    cnt.querySelector('.error').style.display = "block";
+                    return false;
+                }
+            })
+        }
+    });

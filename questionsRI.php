@@ -5,7 +5,7 @@
 
     <!--------------------------------------------1--------------------------------------------------------->
 
-    <div class="riContainer">
+    <div class="firstRiContainer">
         <h4 class="question">1. Prowadzę intensywny tyb życia, obfity w wydarzenia.</h4>
         <ul class="likertRI">
             <li class="likertRIElement">Zdecydowanie nie zgadzam się<input id="scaleStart" type="radio" name="Q1RI" value="1" /></li>

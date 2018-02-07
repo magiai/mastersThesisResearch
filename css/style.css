@@ -8,9 +8,6 @@ body {
     flex-direction: column;
 }
 
-/*.mainContainer {*/
-    /*display: none;*/
-/*}*/
 .mainContainer > div:not(:first-child) {
     display: none;
 }
@@ -37,8 +34,9 @@ body {
 .introTxt {
     text-align: center;
 }
-
-
+.firstNextQuestionBox {
+    margin-top: 30px;
+}
 .nextQuestionBox {
     display: flex;
     justify-content: center;
@@ -64,16 +62,6 @@ body {
     justify-items: center;
     align-items: flex-end;
 }
-/*.vertical {*/
-    /*margin-left: 35vw;*/
-/*}*/
-/*.square {*/
-    /*margin-left: 30vw;*/
-/*}*/
-/*.horizontal {*/
-    /*margin-left: 20vw;*/
-/*}*/
-
 
 .question {
     text-align: center;
@@ -81,7 +69,7 @@ body {
 
 .likert, .likertRI {
     list-style-type: none;
-    margin-top: 50px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
 }
@@ -95,7 +83,7 @@ body {
 .likertRIElement:hover {
     font-weight: bold;
 }
-.nextQuestion, .theLastButton, .firstQuestionBox {
+.nextQuestion, .theLastButton, .firstQuestionBox, .nextQuestionBox2 {
     margin-top: 10px;
 }
 button {
@@ -112,25 +100,18 @@ button {
     justify-content: center;
     margin: 30px 100px 0px 100px;
 }
-
+.riContainer {
+    margin-top: 50px;
+}
 .instructionRI {
     line-height: 2;
 }
-.likertRI {
-    margin-top: 20px;
-}
+/*.likertRI {*/
+    /*margin-top: 20px;*/
+/*}*/
 .likertRIElement {
     font-size: 13px;
 }
-/*.RIquestionBox {*/
-    /*margin-top: 70px;*/
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    /*justify-content: center;*/
-
-    /*width: 98vw;*/
-    /*height: 20vh;*/
-/*}*/
 
 
 /* dane -----------------------------------*/
@@ -188,12 +169,6 @@ button {
     flex-direction: column;
     justify-content: center;
 }
-
-/*.citation {*/
-    /*width: 50vw;*/
-    /*font-style: italic;*/
-    /*font-size: 16px;*/
-/*}*/
 
 /* pictures-----------------------------*/
 .row {
